@@ -10,4 +10,6 @@ Curso na Alura - HTML e CSS: praticando HTML/CSS
 
 `HTML`e`CSS`: 
 Praticando mais a semântica e reutilizando estilizações.
+
+<img src="aluraPlus.png" alt="Alura Plus">
 </div>
